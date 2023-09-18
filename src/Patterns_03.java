@@ -47,6 +47,7 @@ public class Patterns_03 {
 //            System.out.println("");
 //        }
 
+        // hello world
         for (int i=1;i<=5;i++)
         {
             for (int j=1;j<=5;j++)
